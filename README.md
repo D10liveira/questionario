@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Questionário Interativo ✨
 
 Este projeto é um simples questionário interativo que coleta informações do usuário e fornece um resumo das respostas após o preenchimento. 💬
@@ -22,3 +23,6 @@ Sinta-se à vontade para contribuir com melhorias ou correções. Crie um pull r
 ## Licença 📝
 
 Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+=======
+# questionario
+>>>>>>> 20e27d78f2a21dd3e5e95ec562ea629351bd65cd
